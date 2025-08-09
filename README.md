@@ -1,5 +1,32 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is built with **Vue 3**, **TypeScript**, and **Vite**.  
+It uses Vue 3 `<script setup>` SFCs.  
+Check out the [Vue `<script setup>` documentation](https://vuejs.org/api/sfc-script-setup.html) for more details.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/agungmulia/elsoft-test-agung-mulia.git
+cd elsoft-test-agung-mulia
+```
+
+### Check Node.js Version
+For my current project I use the 20.19.0, make sure your node js version are compatible
+
+### Install Dependencies 
+```bash
+npm install
+```
+
+### run development server
+```bash
+npm run dev
+```
+<img width="1914" height="965" alt="image" src="https://github.com/user-attachments/assets/aea842a6-86c6-4f34-82ed-944316d62f56" />
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/c48889fc-f730-441a-ac6e-114a8e164c29" />
+
+
