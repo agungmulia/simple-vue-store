@@ -10,7 +10,7 @@ Check out the [Vue `<script setup>` documentation](https://vuejs.org/api/sfc-scr
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/agungmulia/elsoft-test-agung-mulia.git
+git clone https://github.com/agungmulia/simple-vue-store
 cd elsoft-test-agung-mulia
 ```
 
