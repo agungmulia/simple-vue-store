@@ -1,4 +1,5 @@
 # Vue 3 + TypeScript + Vite
+This is a simple Vue 3 Typescript store with Authentication and consume API from [DummyJSON](https://dummyjson.com/) for the data
 
 This project is built with **Vue 3**, **TypeScript**, and **Vite**.  
 It uses Vue 3 `<script setup>` SFCs.  
